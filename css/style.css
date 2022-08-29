@@ -35,6 +35,9 @@ h1 {
 ul {
     padding-left: 20px;
 }
+.giallo{
+    background-color: yellow;
+}
 .azzurro {
     color: cyan;
 }
