@@ -2,6 +2,9 @@
     box-sizing: border-box;
     margin: 0;
 }
+body {
+    font-size: 16px;
+}
 header {
     background-image: url("../img/pattern.png");
     background-size: 400px;
@@ -19,4 +22,7 @@ h1 {
 }
 .images {
     margin: 20px 0;
+}
+ul {
+    padding-left: 20px;
 }
