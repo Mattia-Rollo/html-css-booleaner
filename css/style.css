@@ -11,3 +11,7 @@ header {
 header img{
     width: 200px;
 }
+h1 {
+    font-size: 3em;
+    padding: 5px;
+}
