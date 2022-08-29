@@ -1,2 +1,2 @@
 # html-css-booleaner
-Esercizio con primi utilizzi di css
+Esercizio con primi utilizzi di **css**
