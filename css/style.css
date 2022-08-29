@@ -44,3 +44,21 @@ ul {
 span {
     font-weight: 300;
 }
+/* stile tabella */
+table , th , td{
+    /* border: 1px solid black; */
+    text-align: left;
+    border-collapse: collapse;
+    margin: 0;
+}
+th {
+    background-color: dodgerblue;
+    color: white;
+}
+.sfondo-azzurro {
+    background-color: lightskyblue;
+}
+.id , .date{
+    width: 300px;
+}
+
