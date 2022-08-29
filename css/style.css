@@ -1,0 +1,9 @@
+header {
+    background-image: url("../img/pattern.png");
+    background-size: 400px;
+    background-color: rgb(84, 153, 210);
+    padding-top: 50px;
+}
+header img{
+    width: 200px;
+}
